@@ -143,9 +143,9 @@ function AboutSection() {
     w-full
     object-cover
 
-    sm:h-[400px]
-    md:h-[700px]
-    lg:h-[660px]
+    sm:h-[300px]
+    md:h-[600px]
+    lg:h-[560px]
   "
 />
           </div>
